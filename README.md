@@ -8,7 +8,7 @@ If you enjoy my oauth, please star this github repository :)
 Video Tutorial: 
 https://www.youtube.com/watch?v=airw52IU250
 
-for extra support, join my community server! https://discord.gg/AacPxwKPrr
+for extra support, join my community server!  ̶h̶t̶t̶p̶s̶:̶/̶/̶d̶i̶s̶c̶o̶r̶d̶.̶g̶g̶/̶A̶a̶c̶P̶x̶w̶K̶P̶r̶r̶
 
 ## Config
 First, you need to set a discord webhook in the "config.json" file 
